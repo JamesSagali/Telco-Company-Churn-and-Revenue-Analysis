@@ -15,7 +15,7 @@ The analysis integrates customer demographics, product usage, billing behavior, 
 
 **Tools and Technologies Used:**
 - **Jupyter Notebooks:** For data cleaning, preprocessing, and exploratory analysis.  
-- **Power BI:** For creating interactive dashboards, visualizations, and executive-level insights.  
+- **Power BI:** For creating interactive dashboards, visualizations, and executive-level insights. [View PowerBi Dashboard (.pbit)](https://github.com/JamesSagali/Telco-Company-Churn-and-Revenue-Analysis/blob/main/Telco%20Churn%20Analysis.pbit) 
 - **Python Libraries:** Pandas for initial analysis and plotting before visualization.  
 
 **Key Areas of Insight and Recommendations:**
