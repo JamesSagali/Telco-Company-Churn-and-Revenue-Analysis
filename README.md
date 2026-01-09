@@ -80,7 +80,7 @@ The dataset for this project was provided in an **Excel file** containing detail
 | numTechTickets | Number of technical tickets |
 | Churn | Yes / No |
 
-For a detailed record of the **data cleaning, preparation, and exploratory analysis**, please refer to the [Jupyter Notebook](link-to-your-notebook-here).  
+For a detailed record of the **data cleaning, preparation, and exploratory analysis**, please refer to the [Jupyter Notebook](https://github.com/JamesSagali/Telco-Company-Churn-and-Revenue-Analysis/blob/main/TelcomChurnDataset.ipynb).  
 This structured approach ensured that all analyses and visualizations in Power BI were based on **clean, reliable, and well-understood data**, allowing for accurate insights and recommendations.
 
 ---
